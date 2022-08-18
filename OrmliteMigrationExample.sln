@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmliteMigrationExample", "OrmliteMigrationExample\OrmliteMigrationExample.csproj", "{CA58EB59-9237-43A3-A19E-B154A5FC6AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA58EB59-9237-43A3-A19E-B154A5FC6AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA58EB59-9237-43A3-A19E-B154A5FC6AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA58EB59-9237-43A3-A19E-B154A5FC6AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA58EB59-9237-43A3-A19E-B154A5FC6AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F966598-7BD0-4E01-BD31-9EA8092EE300}
+	EndGlobalSection
+EndGlobal
